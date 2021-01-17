@@ -15,14 +15,14 @@ Gatsby is a static PWA (Progressive Web App) generator, is a shortcut to allow d
 
   Main content with the different posts created with [mdx](https://mdxjs.com/), and posts retrieved from instagram through its api, all this at compile time with the help of graphql and gatsby plugins.
 
-  <img src="https://i.ibb.co/mG2yV3y/localhost-9000.png" alt="Kitten"
+  <img src="https://res.cloudinary.com/dyft819vu/image/upload/v1610918642/localhost_9000__dyt3a4.png" alt="Kitten"
   title="A cute kitten" width="350" height="450" />
 
 - Posts
 
-  The posts created were generated through dynamic pages in gatsby for later viewing, built with mdx, querying the post with graphql.
+  The posts created were generated through dynamic pages in gatsby for later viewing, built with [mdx](https://mdxjs.com/), querying the post with graphql.
 
-  <img src="https://i.ibb.co/dPnxF19/post.png" alt="Kitten"
+  <img src="https://res.cloudinary.com/dyft819vu/image/upload/v1610919275/post_wuyq4a.png" alt="Kitten"
   title="A cute kitten" width="350" height="370" />
 
 ### Credits
