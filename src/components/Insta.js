@@ -5,13 +5,6 @@ import useInstagram from '../hooks/useInstagram';
 
 const Insta = () => {
   const instaPhotos = useInstagram();
-  const { username } = instaPhotos[0];
-  console.log(instaPhotos);
-
-  const ma = instaPhotos.map(photo => {
-    console.log(photo);
-  });
-
   return (
     <>
       <h2>Instagram posts from @gatsbyjs</h2>
